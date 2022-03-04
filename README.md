@@ -31,3 +31,5 @@ target - True/False for whether or not the bird in question called during the 5 
 scored_birds.json - The subset of the species in the dataset that are scored.
 
 eBird_Taxonomy_v2021.csv - Data on the relationships between different species.
+
+![alt text](/newplot.png)
